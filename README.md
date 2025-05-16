@@ -28,13 +28,13 @@ This repository contains a collection of beginner-level Python assignments creat
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Kushshastri89/Python-Assignments.git
 
 
 2. **Navigate into the folder**
 
    ```bash
-   cd your-repo-name
+   cd Python-Assignments
    ```
 3. **Run any Python file**
 
